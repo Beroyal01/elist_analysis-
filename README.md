@@ -1,6 +1,10 @@
 # ByteCart Background
 ByteCart, founded in 2018 is a dynamic e-commerce platform that connects customers with high quality electronic products through a seamless digital shopping experience. With a focus on user convenience, ByteCart offers transactions via both website and mobile app, catering to a global audience. The company leverages data-driven insights to enhance customer retention, including a loyalty program that rewards repeat shoppers. Through multiple marketing channels, ByteCart ensures a personalized and engaging shopping journey while maintaining efficient order fulfillment and delivery services.
 
+Goals
+
+Tools Used
+
 # Overview
 - From 2019 to 2022, ByteCart fullfilled over 108k orders generating over $28M in total sales. Sales peaked in 2020 but noticed a significant decline through 2022 despite strong Q4 performance each year.
 
@@ -41,18 +45,18 @@ From 2019 to 2022, the 27in 4K Gaming Monitor was the top revenue generating pro
 Refund rates showed minimal fluctuation from 2019 to 2022, except for 2022, which had no returns but the lowest order count. Over the four years, refunds consistently averaged 5% of total orders across all regions, maintaining a proportional relationship with order volume. Each year, refund rates have shown a slight but steady decline from January to December, averaging 6% in January and 5% in December. The lowest rates, around 4%, typically occur in Q3, suggesting a seasonal correlation between refund rates and time of year. Among total refunds, laptops saw the highest return rate with the Macbook Air seeing a 11% return rate and ThinkPad at 12%. The difference in refund rates between loyalty and non-loyalty members was minimal over the four years, with non-loyalty members averaging 4% and loyalty members 5%. This suggests that the loyalty program has little impact on refund rates.
 
 # Recommendations
-## Address Sales Decline with Targeted Promotions
+### Address Sales Decline with Targeted Promotions
 - Since sales peaked in 2020 but declined through 2022, investigation into external factors such as Covid, competition, or changin consumer preferences through customer surveys should be performed.
 - Leverage of Q4 as the strongest sales period should be utilized by launching aggressive holiday promotions to maximize momentum.
 - Introduction of limited-time bundles featuring high performing products like Airpods bundled with MacBooks to boost yearly AOV decline.
-## Strenghten Loyalty Program for Sustainable Growth
+### Strenghten Loyalty Program for Sustainable Growth
 - Continual investment into loyalty program expansion should be looked into due to now contributing 55% of total sales, and first time loyalty driven purchases growing to 57%.
 - Offer double reward points during historically slow sales periods like Q1 and Q3 to encourage repeat purchases.
-## Optimize Product Strategy
+### Optimize Product Strategy
 - Invest in exclusive deals, extended warranties, or trade-in programs to maintain sales volume for revenue dominating products like Gaming Monitors, Airpods, and MacBooks.
 - Consider increasing ad spend on low cost accessories driving order volumn like Samsung Charging Cables and Webcams.
 - Discontinue or heavily discount underperforming products like the Bose SoundSport Headphones and Apple Iphone.
-## Improve Order Fulfillment to Reduce Refund Rates
+### Improve Order Fulfillment to Reduce Refund Rates
 - Analyze return reasons (performance issues, defects, unmet expectations) for laptops due to highest return rate of 11-12%.
 - Consider charging restocking fees on high return items to discourage impulse purchases.
 - Provide refurbished discounts to resell returned laptops efficently.
