@@ -10,7 +10,7 @@ Goals/ Stakeholder Questions
 
 Tools Used
 - Excel (Data Cleaning/ Analysis) 
-- SQL (Advanced Analysis)) 
+- SQL (Advanced Analysis)
 - Tableau (Visualization/ Interactive Dashboard)
 
 # Overview
