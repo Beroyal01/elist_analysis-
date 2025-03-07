@@ -66,7 +66,7 @@ The interactive dashboard can be found in Tableau Public here.
 
 ## Refund Rates
 <img width="689" alt="image" src="https://github.com/user-attachments/assets/29206a07-6189-4120-ae61-fe812249657e" />
-<img width="644" alt="image" src="https://github.com/user-attachments/assets/37cbfaf0-0b08-4ae7-b92c-dd01cb1a38f4" />
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/37cbfaf0-0b08-4ae7-b92c-dd01cb1a38f4" />
 
 - From 2019 to 2022, refund rates remained stable at an average of 5% of total orders, closely tracking order volume.
 - 2022 saw no returns, but it also had the lowest order count of the four years.
