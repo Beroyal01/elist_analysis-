@@ -30,7 +30,7 @@ The interactive dashboard can be found in Tableau Public here.
 # Summary of Insights
 ## Sales Trends
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/c51e08dc-c23b-4d61-bd67-2e1a4f43615b" />
-<img width="816" alt="image" src="https://github.com/user-attachments/assets/7e087fa6-a45a-42ff-8401-659a148b1021" />
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/7e087fa6-a45a-42ff-8401-659a148b1021" />
 
 - From 2019 to 2022, ByteCart generated over $28M in total sales.
 - Sales surged 163% between 2019 and 2020, jumping from $3.8M to over $10M, marking a brief period of exponential growth.
