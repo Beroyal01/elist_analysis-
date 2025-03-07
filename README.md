@@ -4,6 +4,9 @@ ByteCart, founded in 2018 is a dynamic e-commerce platform that connects custome
 Goals
 
 Tools Used
+- Excel (Data Cleaning/ Analysis) 
+- SQL (Advanced Analysis)) 
+- Tableau (Visualization/ Interactive Dashboard)
 
 # Overview
 - From 2019 to 2022, ByteCart fullfilled over 108k orders generating over $28M in total sales. Sales peaked in 2020 but noticed a significant decline through 2022 despite strong Q4 performance each year.
