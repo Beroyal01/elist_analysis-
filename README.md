@@ -27,7 +27,7 @@ The interactive dashboard can be found in Tableau Public here.
 - From 2019 to 2022, ByteCart generated over $28M in total sales.
 - Sales surged 163% between 2019 and 2020, jumping from $3.8M to over $10M, marking a brief period of exponential growth.
 - However, from 2020 to 2022, sales trends reversed, with:
--- Total sales dropping by 46%
+-  Total sales dropping by 46%
 AOV decreasing by 10%
 Order count falling by 40% in 2022
 - Despite the decline, Q4 remained the strongest quarter each year, consistently reaching:
