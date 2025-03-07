@@ -36,7 +36,12 @@ From 2019 to 2022, the loyalty program saw significant growth in total sales vol
 ## Product Trends
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/7c07e4b8-157e-414a-a940-05cbeaafdb1b" />
 
-From 2019 to 2022, the 27in 4K Gaming Monitor was the top revenue generating product, bringing in $9.85 million, which accounts for 35% of total sales revenue. It also has a strong order count of 23,408, representing 22% of total orders. The Apple AirPods Headphones followed closely with $7.73 million in revenue and the highest order volume at 48,402 orders, making up 45% of total orders. Lastly the MacBook Air Laptop ranked third in revenue, generating $6.29 million, contributing 22% to overall sales revenue, with an AOV of $1,588.12, the highest among all products. On the lower end, Bose SoundSport Headphones have had the weakest performance with only $3,339 in total sales and the lowest order count of only 27. Similarly, while the Apple iPhone has a high AOV of $740.72, it only recorded 288 orders, barely contributing to total sales volume. The Samsung Charging Cable Pack and Samsung Webcam show popularity as lower cost, frequently bought items. Both have relatively low AOVs of $20.20 and $50.43 respectively, but maintain high order counts of 21,910 and 7,176 orders, respectively. 
+- From 2019 to 2022, the 27in 4K Gaming Monitor dominated sales, generating $9.85M (35% of total revenue) with 23,408 orders (22% of total orders).
+- Despite ranking second in revenue at $7.73M, the Apple AirPods Headphones stood out as the most popular product by volume, selling 48,402 units (45% of total orders).
+- The MacBook Air Laptop followed closely, contributing $6.29M (22% of total revenue), but what sets it apart is its high AOV of $1,588.12, the highest among all products.
+- On the other end of the spectrum, the Bose SoundSport Headphones struggled, bringing in only $3,339 from 27 orders, making it the weakest performer.
+- The Apple iPhone, while commanding a high AOV of $740.72, saw minimal sales impact with just 288 orders.
+- Lower-cost accessories, like the Samsung Charging Cable Pack and Samsung Webcam, proved to be frequent purchases. Though their AOVs were $20.20 and $50.43, they maintained solid order volumes of 21,910 and 7,176, respectively.
 
 ## Refund Rates
 <img width="689" alt="image" src="https://github.com/user-attachments/assets/29206a07-6189-4120-ae61-fe812249657e" />
