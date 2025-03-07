@@ -2,11 +2,11 @@
 ByteCart, founded in 2018 is a dynamic e-commerce platform that connects customers with high quality electronic products through a seamless digital shopping experience. With a focus on user convenience, ByteCart offers transactions via both website and mobile app, catering to a global audience. The company leverages data-driven insights to enhance customer retention, including a loyalty program that rewards repeat shoppers. Through multiple marketing channels, ByteCart ensures a personalized and engaging shopping journey while maintaining efficient order fulfillment and delivery services.
 
 Goals/ Stakeholder Questions
-The goal of this analysis is to evaluate ByteCart's sales performance from 2019 to 2022, with a focus on answering key stakeholder questions for the Sales & Product teams such as:
-- What are the trends in ByteCart’s sales performance over the past 4 years?
-- Which products are driving the highest revenue and order volume?
-- How effective is the loyalty program?
-- What are the trends in refund rates?
+- The goal of this analysis is to evaluate ByteCart's sales performance from 2019 to 2022, with a focus on answering key stakeholder questions for the Sales & Product teams such as:
+  - What are the trends in ByteCart’s sales performance over the past 4 years?
+  - Which products are driving the highest revenue and order volume?
+  - How effective is the loyalty program?
+  - What are the trends in refund rates?
 
 Tools Used
 - Excel (Data Cleaning/ Analysis) 
