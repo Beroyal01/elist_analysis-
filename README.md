@@ -69,17 +69,17 @@ The interactive dashboard can be found in Tableau Public here.
 
 # Recommendations
 ### Address Sales Decline with Targeted Promotions
-- Since sales peaked in 2020 but declined through 2022, investigation into external factors such as Covid, competition, or changin consumer preferences through customer surveys should be performed.
-- Leverage of Q4 as the strongest sales period should be utilized by launching aggressive holiday promotions to maximize momentum.
-- Introduction of limited-time bundles featuring high performing products like Airpods bundled with MacBooks to boost yearly AOV decline.
+- Since sales peaked in 2020 but declined by 46% through 2022, an investigation into external factors such as COVID-19, increased competition, or shifting consumer preferences should be conducted through customer surveys.
+- Leverage Q4’s consistent strength (~$2.8M in sales, 10,787 orders) by launching aggressive holiday promotions to maximize momentum.
+- Introduce limited-time bundles featuring high-performing products like AirPods and MacBooks to counteract the 10% decline in AOV and boost annual revenue.
 ### Strenghten Loyalty Program for Sustainable Growth
-- Continual investment into loyalty program expansion should be looked into due to now contributing 55% of total sales, and first time loyalty driven purchases growing to 57%.
-- Offer double reward points during historically slow sales periods like Q1 and Q3 to encourage repeat purchases.
+- Given that the loyalty program now accounts for 55% of total sales and first-time loyalty-driven purchases have grown from 13% to 57%, continued investment in program expansion is advised.
+- Offer double reward points during historically slow sales periods (Q1 & Q3) to encourage repeat purchases.
 ### Optimize Product Strategy
-- Invest in exclusive deals, extended warranties, or trade-in programs to maintain sales volume for revenue dominating products like Gaming Monitors, Airpods, and MacBooks.
-- Consider increasing ad spend on low cost accessories driving order volumn like Samsung Charging Cables and Webcams.
-- Discontinue or heavily discount underperforming products like the Bose SoundSport Headphones and Apple Iphone.
+- Invest in exclusive deals, extended warranties, or trade-in programs for high-revenue products like Gaming Monitors ($9.85M), AirPods ($7.73M), and MacBooks ($6.29M) to sustain their success.
+- Consider increasing ad spend on low-cost, high-volume accessories like Samsung Charging Cables (21,910 orders) and Webcams (7,176 orders) to capitalize on their consistent demand.
+- Discontinue or heavily discount underperforming products like Bose SoundSport Headphones ($3,339 in sales, 27 orders) and Apple iPhone (288 orders despite a high AOV of $740.72).
 ### Improve Order Fulfillment to Reduce Refund Rates
-- Analyze return reasons (performance issues, defects, unmet expectations) for laptops due to highest return rate of 11-12%.
-- Consider charging restocking fees on high return items to discourage impulse purchases.
-- Provide refurbished discounts to resell returned laptops efficently.
+- Since laptops have the highest return rates (MacBook Air at 11%, ThinkPad at 12%), analyze return reasons (e.g., performance issues, defects, unmet expectations) to identify potential improvements.
+- Consider implementing restocking fees on high-return items to discourage impulse purchases and reduce unnecessary returns.
+- Introduce refurbished discounts to efficiently resell returned laptops and minimize revenue loss.
