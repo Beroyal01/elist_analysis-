@@ -40,7 +40,11 @@ The interactive dashboard can be found in Tableau Public here.
 ## Loyalty Program
 <img width="1053" alt="image" src="https://github.com/user-attachments/assets/672d536e-f7f2-4ddf-b2ed-0e4fc5118061" />
 
-From 2019 to 2022, the loyalty program saw significant growth in total sales volume market share, rising from 11% in 2019 to 55% in 2022. Additionally, first-time customer purchases driven by loyalty members increased from 13% to 57% over the same period, highlighting the program's effectiveness in customer acquisition. Repeat business accounted for 70% of total sales volume, and while loyalty members contributed an average of 36% to this segment, their share grew steadily from 12% in 2019 to 38% in 2022, hitting an all time high of 51% in 2021. Adversely, repeat purchase sales volume among non-loyalty members declined from 88% in 2019 to 62% in 2022, reaching an all-time low of 49% in 2021. This suggests that continued investment in acquiring loyalty members could lead to increased repeat business in the long term, while continuing to driving first-time purchases volumn in the present.
+- From 2019 to 2022, the loyalty program saw a significant rise in total sales volume market share, growing from 11% to 55%.
+- The program also proved effective for customer acquisition, with first-time purchases driven by loyalty members increasing from 13% to 57% over the same period.
+- Repeat business made up 70% of total sales volume, with loyalty members steadily increasing their contribution from 12% in 2019 to 38% in 2022, peaking at 51% in 2021.
+- Conversely, repeat purchase sales from non-loyalty members declined from 88% in 2019 to 62% in 2022, hitting a low of 49% in 2021.
+- These trends suggest that continued investment in loyalty programs could drive both long-term repeat business and immediate first-time purchases.
 
 ## Product Trends
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/7c07e4b8-157e-414a-a940-05cbeaafdb1b" />
