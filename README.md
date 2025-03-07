@@ -60,7 +60,12 @@ The interactive dashboard can be found in Tableau Public here.
 <img width="689" alt="image" src="https://github.com/user-attachments/assets/29206a07-6189-4120-ae61-fe812249657e" />
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/37cbfaf0-0b08-4ae7-b92c-dd01cb1a38f4" />
 
-Refund rates showed minimal fluctuation from 2019 to 2022, except for 2022, which had no returns but the lowest order count. Over the four years, refunds consistently averaged 5% of total orders across all regions, maintaining a proportional relationship with order volume. Each year, refund rates have shown a slight but steady decline from January to December, averaging 6% in January and 5% in December. The lowest rates, around 4%, typically occur in Q3, suggesting a seasonal correlation between refund rates and time of year. Among total refunds, laptops saw the highest return rate with the Macbook Air seeing a 11% return rate and ThinkPad at 12%. The difference in refund rates between loyalty and non-loyalty members was minimal over the four years, with non-loyalty members averaging 4% and loyalty members 5%. This suggests that the loyalty program has little impact on refund rates.
+- From 2019 to 2022, refund rates remained stable at an average of 5% of total orders, closely tracking order volume.
+- 2022 saw no returns, but it also had the lowest order count of the four years.
+- Refund rates followed a seasonal pattern, gradually declining from 6% in January to 5% in December, with the lowest rates (~4%) occurring in Q3.
+- Laptops had the highest return rates, with the MacBook Air at 11% and ThinkPad at 12%.
+- Loyalty status had minimal impact on refunds, as loyalty members averaged a 5% return rate, compared to 4% for non-loyalty members.
+- These trends suggest that seasonality and product category influence refunds more than customer loyalty.
 
 # Recommendations
 ### Address Sales Decline with Targeted Promotions
